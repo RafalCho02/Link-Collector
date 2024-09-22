@@ -1,4 +1,4 @@
-# MyDjangoApp
+# Link Collector
 
 **MyDjangoApp** is a Django-based web application. Follow the steps below to set it up and run it locally.
 
